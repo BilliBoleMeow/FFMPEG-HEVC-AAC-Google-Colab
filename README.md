@@ -6,4 +6,4 @@ This is a simple Google Colaboratory that will encode your videos files from GDr
 Credit: This is a mod from https://github.com/mohitjoshi155/Codemaster
 
 Click on the "Open in Colab" button.
-<a href="https://colab.research.google.com/github/Ptibouc77/FFMPEG-HEVC-AAC-Google-Colab/blob/master/FFMPEG_HEVC_AAC.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/BilliBoleMeow/FFMPEG-HEVC-AAC-Google-Colab/blob/master/FFMPEG_HEVC_AAC.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
